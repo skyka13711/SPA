@@ -1,0 +1,26 @@
+.Favorites__item {
+    width: 100%;
+    padding: 10px;
+    background-color: #fff;
+    margin-bottom: 5px;
+}
+
+.container {
+    float: right;
+}
+
+.mask {
+    background-color: #F1F1F1;
+}
+
+.edit {
+    color: #1390E5;
+    margin-right: 30px;
+    cursor: pointer;
+
+}
+
+.delete {
+    color: #FF0000;
+    cursor: pointer;
+}

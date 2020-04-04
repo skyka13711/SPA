@@ -1,0 +1,10 @@
+.Favorites__container {
+    width: 1040px;
+    margin: 0 auto;
+    min-height: 720px;
+}
+
+
+.Favorites__list {
+    list-style: none;
+}

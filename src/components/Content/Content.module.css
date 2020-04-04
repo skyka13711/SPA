@@ -1,0 +1,42 @@
+.container {
+    width: 1040px;
+    margin: 0 auto;
+    min-height: 700px;
+}
+
+.container h1 {
+    font-size: 36px;
+    line-height: 52px;
+    margin-bottom: 40px;
+}
+
+.search__wrapper {
+    position: relative;
+}
+
+.search {
+    margin-top: 220px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.search input {
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+
+}
+
+.search input:focus {
+    background-color: rgba(197, 228, 249, 0.3);
+}
+
+.active {
+    margin-top: 50px;
+    display: block;
+}
+
+.input__heart svg {
+    fill: rgba(197, 228, 249, 0.6);
+}
